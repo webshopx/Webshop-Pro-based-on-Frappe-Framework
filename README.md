@@ -1,35 +1,21 @@
 # webshopPro
 👋Webshop-Pro 🛒 based on Frappe Framework
 
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <h1 class="text-center">Welcome to the WebshopX Revamp Repository!</h1>
-                <p class="text-center mt-4">We are looking for voluntary contributors to help revamp the Frappe webshop app.</p>
-                <p class="text-center">Together, we can take the webshop app to the next level with WebshopX version!</p>
-            </div>
-        </div>
+    # WebshopX Revamp Repository
 
-        <div class="row mt-5">
-            <div class="col-md-3">
-                <img src="image1.jpg" class="img-fluid" alt="Image 1">
-            </div>
-            <div class="col-md-3">
-                <img src="image2.jpg" class="img-fluid" alt="Image 2">
-            </div>
-            <div class="col-md-3">
-                <img src="image3.jpg" class="img-fluid" alt="Image 3">
-            </div>
-            <div class="col-md-3">
-                <img src="image4.jpg" class="img-fluid" alt="Image 4">
-            </div>
-        </div>
+We are looking for voluntary contributors to help revamp the Frappe webshop app. Together, we can take the webshop app to the next level with WebshopX version!
 
-        <div class="row mt-5">
-            <div class="col-md-12">
-                <p class="text-center">Interested in contributing? Visit our <a href="https://github.com/yourrepository">GitHub Repository</a> and join the community!</p>
-            </div>
-        </div>
-    </div>
+## Screenshots
 
-  
+![Image 1](image1.jpg) ![Image 2](image2.jpg) ![Image 3](image3.jpg) ![Image 4](image4.jpg)
+
+## Contributing
+
+Interested in contributing? Visit our [GitHub Repository](https://github.com/yourrepository) and join the community!
+
+## Built With
+
+- [Bootstrap 4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [jQuery](https://jquery.com/)
+- [Popper.js](https://popper.js.org/)
+
