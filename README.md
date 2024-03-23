@@ -3,7 +3,7 @@
 
 # 🛍️ WebshopX Revamp Repository
 
-We are looking for voluntary contributors to help revamp the Frappe webshop app. 🚀 Together, we can take the webshop app to the next level with WebshopX version! 🌟
+I am looking for voluntary contributors to help revamp the Frappe webshop app. 🚀 Together, we can take the webshop app to the next level with WebshopX version! 🌟
 
 ## 📸 Screenshots
 
@@ -11,7 +11,7 @@ We are looking for voluntary contributors to help revamp the Frappe webshop app.
 
 ## 🤝 Contributing
 
-Interested in contributing? 🌐 Visit our [GitHub Repository](https://github.com/yourrepository) and join the community! 🙌
+Interested in contributing? 🌐 Visit our [GitHub Repository]([https://github.com/yourrepository](https://github.com/webshopx/Webshop-Pro-based-on-Frappe-Framework) and join the community! 🙌
 
 ## 🛠️ Built With
 
@@ -20,4 +20,6 @@ Interested in contributing? 🌐 Visit our [GitHub Repository](https://github.co
 - [Vue.js](https://vuejs.org/) 🖖
 - [Tailwind CSS](https://tailwindcss.com/) 🌈
 - [React](https://reactjs.org/) ⚛️
+
+  Self-organized community
 
