@@ -11,7 +11,7 @@ I am looking for voluntary contributors to help revamp the Frappe webshop app. �
 
 ## 🤝 Contributing
 
-Interested in contributing? 🌐 Visit our [GitHub Repository]([https://github.com/yourrepository](https://github.com/webshopx/Webshop-Pro-based-on-Frappe-Framework) and join the community! 🙌
+Interested in contributing? 🌐 Visit our [GitHub Repository]([WebshopPro](https://github.com/webshopx/Webshop-Pro-based-on-Frappe-Framework) and join the community! 🙌
 
 ## 🛠️ Built With
 
