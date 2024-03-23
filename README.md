@@ -7,7 +7,7 @@ We are looking for voluntary contributors to help revamp the Frappe webshop app.
 
 ## 📸 Screenshots
 
-![Image 1](image1.jpg) ![Image 2](image2.jpg) ![Image 3](image3.jpg) ![Image 4](image4.jpg)
+![Image 1](profile-screen.jpg) ![Image 2](webshop.jpg) ![Image 3](webshsop-v2.jpg) ![Image 4](Webshop2.0.jpg)
 
 ## 🤝 Contributing
 
