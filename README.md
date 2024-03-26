@@ -24,7 +24,7 @@ Thank you for considering this opportunity 🙏. We look forward to your positiv
 
 ## 🤝 Contributing
 
-Interested in contributing? 🌐 Visit our [GitHub Repository]([WebshopPro](https://github.com/webshopx/Webshop-Pro-based-on-Frappe-Framework) and join the community! 🙌
+Interested in contributing? 🌐 Visit our [GitHub Repository][WebshopPro](https://github.com/webshopx/Webshop-Pro-based-on-Frappe-Framework) and join the community! 🙌
 
 ## 🛠️ Built With
 
