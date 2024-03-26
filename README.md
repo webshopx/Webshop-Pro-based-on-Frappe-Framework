@@ -1,7 +1,7 @@
 # webshopPro
 👋Webshop-Pro 🛒 based on Frappe Framework
 
-# 🛍️ WebshopX Revamp Repository
+# 🛍️ Webshop Revamp Repository
 
 I am looking for <strong>voluntary contributors</strong> to help revamp the Frappe webshop app. 🚀 Together, we can take the webshop app to the next level with WebshopX version! 
 The purpose of this repository is to gather all volunteers who are willing to contribute to the development of the new webshop version 🛍️by revamping the existing one. The screenshots , provide an overview of our vision for the project 📸.
