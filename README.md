@@ -6,7 +6,6 @@
 I am looking for voluntary contributors to help revamp the Frappe webshop app. 🚀 Together, we can take the webshop app to the next level with WebshopX version! 
 The purpose of this repository is to gather all volunteers who are willing to contribute to the development of the new webshop version 🛍️by revamping the existing one. The screenshots , provide an overview of our vision for the project 📸.
 
-Once we initiate the development process, our plan is to handover the repository to the Frappe Team 🤝. Currently, Frappe is actively seeking developers to manage the webshop development app, as it is considered a critical component and has unfortunately been neglected thus far 😞.
 
 We initially considered submitting pull requests to the legacy webshop. However, due to the unavailability of a maintainer 🕰️, there is no one to approve PRs 🚫. Consequently, many users, especially those on version 15, are unable to benefit from these updates ❌.
 
