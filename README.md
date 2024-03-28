@@ -3,6 +3,8 @@
 
 # 🛍️ Webshop Revamp Repository
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="20"/>](https://t.me/+GFJX5pUZc7MxN2U1) Join us on [Telegram](https://t.me/+GFJX5pUZc7MxN2U1)
+
 I am looking for <strong>voluntary contributors</strong> to help revamp the Frappe webshop app. 🚀 Together, we can take the webshop app to the next level with WebshopX version! 
 The purpose of this repository is to gather all volunteers who are willing to contribute to the development of the new webshop version 🛍️by revamping the existing one. The screenshots , provide an overview of our vision for the project 📸.
 
